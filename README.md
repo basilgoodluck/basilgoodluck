@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Noble</h2>
-<h4 align="center">I turn caffeine into beautiful web materials</h4>
+<h4 align="center">I work magic with caffeine-fueled coding sessions, transforming lines of code into stunning web wizardry!s</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilgoodluck&label=Profile%20views&color=0e75b6&style=flat" alt="basilgoodluck" /> </p>
