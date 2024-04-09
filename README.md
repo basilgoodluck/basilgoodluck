@@ -1,4 +1,4 @@
-<img src="https://github.com/basilgoodluck/profile-banner" alt="banner" width="100px" height="100px" />
+<img src="./github banner.png" alt="banner" width="100px" height="100px" />
 <h2 align="center">Hi 👋, I'm Noble</h2>
 <h4 align="center">I work magic with caffeine-fueled coding sessions, transforming lines of code into stunning web wizardry!</h4>
 
