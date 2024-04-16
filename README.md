@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [a fitness blog](https://github.com/basilgoodluck/fitnessBlog)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 👯 I’m looking to collaborate on **web tech projects**
 
