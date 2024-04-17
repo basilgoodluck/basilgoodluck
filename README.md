@@ -21,11 +21,6 @@
 
 - ⚡ Fun fact **I love playing chess😒😂**
 
-<h4 align="left">Let's connect:</h4>
-<p align="left">
-<a href="https://twitter.com/thenoblebasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenoblebasil" height="30" width="40" /></a>
-</p>
-
 <p align="center">
   <img src="https://moe-counter.glitch.me/get/@sh-y-zu?theme=gelbooru" alt="feeeek" width="200">
 </p>
