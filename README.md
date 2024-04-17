@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/thenoblebasil" target="blank"><img src="https://img.shields.io/twitter/follow/thenoblebasil?logo=twitter&style=for-the-badge" alt="thenoblebasil" /></a> </p>
 
-- 🔭 I’m currently working on [a fitness blog](https://github.com/basilgoodluck/fitnessBlog)
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
