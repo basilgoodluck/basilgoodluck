@@ -93,7 +93,7 @@ I'm a passionate developer who works magic with caffeine-fueled coding sessions,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basilgoodluck&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=basilgoodluck&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
