@@ -1,9 +1,6 @@
 ### Noble Dev | Full Stack Engineer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)  
-[![GitHub followers](https://img.shields.io/github/followers/basilgoodluck?style=for-the-badge&logo=github)](https://github.com/basilgoodluck)  
-[![Profile Views](https://komarev.com/ghpvc/?username=basilgoodluck&style=for-the-badge&color=0e75b6)](https://github.com/basilgoodluck)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/basilgoodluck?style=for-the-badge&logo=github)](https://github.com/basilgoodluck) [![Profile Views](https://komarev.com/ghpvc/?username=basilgoodluck&style=for-the-badge&color=0e75b6)](https://github.com/basilgoodluck)
 
 > *Transforming caffeine into code and turning problems into elegant solutions*
 
@@ -70,11 +67,11 @@ I'm a passionate developer who thrives on caffeine-fueled coding sessions, craft
 
 ### 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=basilgoodluck&theme=radical" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
 ---
 
