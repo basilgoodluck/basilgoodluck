@@ -7,17 +7,24 @@
 
 #### About Me
 
-I'm a passionate and versatile web developer with a deep love for learning and information. From the start, my curiosity has fueled my journey — pushing me to explore a wide range of technologies across frontend, backend, scripting, automation, and even the blockchain industry.
+I'm a passionate and versatile web developer who loves learning and building new things. Over the years, my curiosity has led me to explore frontend, backend, scripting, automation, and even the blockchain industry.
 
-My love for programming naturally led me into algorithmic trading. I enjoy building systems that work for me — from automating repetitive tasks to creating a suite of trading bots that run while I sleep (yes, it's as fun as it sounds).
+I enjoy creating web solutions and building trading bots that automate work while I sleep. I’m also into web scraping and have built several automation tools to make life easier.
 
-My path in tech wasn’t smooth — like many others, I faced the late nights, the self-doubt, and the hustle to invest in my own growth. Persistence, faith, and relentless curiosity carried me through.
+My journey in tech wasn’t easy — a lot of late nights, saving up to invest in myself, and pushing through challenges. But persistence and patience helped me move forward, and I'm grateful for how far I’ve come.
 
-Today, my stack includes **MERN**, **JavaScript**, **TypeScript**, **Python**, **FastAPI**, **Next.js**, and **Express.js**. I'm currently sharpening my **data structures and algorithms (DSA)** skills and preparing to dive into **Rust** to take my expertise to the next level.
+Today, I work mainly with **JavaScript**, **React.js**, **Node.js**, **TypeScript**, **Python**, **FastAPI**, and **Next.js**. I'm currently sharpening my **data structures and algorithms (DSA)** skills and learning **Rust** to grow even more.
 
-Grateful to God for how far I’ve come — and excited for what’s next.
+When I'm not coding, I'm usually playing chess and trying not to blunder too badly.
 
-### 📊 GitHub Stats
+#### Quick Highlights
+🔭 **Working on:** Personal Growth & Development  
+🌱 **Learning:** Data Structures and Algorithms  
+👯 **Open to:** Web Technology Projects  
+💬 **Ask me about:** Computer Science, Automation, Web Development  
+⚡ **Fun fact:** Chess addict (even if I lose sometimes)
+
+#### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
@@ -27,13 +34,13 @@ Grateful to God for how far I’ve come — and excited for what’s next.
 
 ---
 
-### 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=basilgoodluck&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
 ---
 
-### 🐍 Contribution Graph
+#### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
