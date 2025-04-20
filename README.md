@@ -1,4 +1,4 @@
-### Noble Dev | Full Stack Engineer
+#### Building apps, breaking markets — full stack & full throttle.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 > *Transforming caffeine into code and turning problems into elegant solutions*
