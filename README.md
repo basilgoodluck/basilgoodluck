@@ -5,17 +5,19 @@
 
 ---
 
-### 🧙‍♂️ About Me
+#### About Me
 
-I'm a passionate developer who thrives on caffeine-fueled coding sessions, crafting stunning web solutions. When I’m not coding, I’m diving into pure mathematics or outsmarting opponents on the chessboard.
+I'm a passionate and versatile web developer with a deep love for learning and information. From the start, my curiosity has fueled my journey — pushing me to explore a wide range of technologies across frontend, backend, scripting, automation, and even the blockchain industry.
 
-- 🔭 Working on: **Personal Growth & Development**
-- 🌱 Learning: **Data Structures and Algorithms**
-- 👯 Open to: **Web Technology Projects**
-- 💬 Ask me about: **Math, Stats, CS**
-- ⚡ Fun fact: **Chess addict (despite the occasional blunder)**
+I thrive on caffeine-fueled coding sessions, crafting stunning web solutions, and when I’m not coding, you’ll probably find me diving deep into pure mathematics or trying to outsmart opponents on the chessboard (despite the occasional blunder).
 
----
+My love for programming naturally led me into algorithmic trading — automating repetitive tasks and building trading bots that do the work while I sleep. This passion for automation and efficiency is what truly excites me about technology.
+
+Like many others, my journey wasn’t easy. Late nights, tough challenges, and the constant hustle to invest in myself were all part of the path. Persistence, faith, and relentless curiosity carried me through.
+
+Today, my stack includes **MERN**, **JavaScript**, **TypeScript**, **Python**, **FastAPI**, **Next.js**, and **Express.js**. I'm currently sharpening my **data structures and algorithms (DSA)** skills and preparing to dive into **Rust** to further expand my capabilities.
+
+Grateful to God for how far I’ve come — and excited for the next chapter.
 
 ### 📊 GitHub Stats
 
