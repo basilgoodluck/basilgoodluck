@@ -1,11 +1,11 @@
-#### Building apps, breaking markets — full stack & full throttle.
+### Building apps, breaking markets — full stack & full throttle.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 > *Transforming caffeine into code and turning problems into elegant solutions*
 
 ---
 
-#### About Me
+### About Me
 
 I'm a passionate and versatile web developer who loves learning and building new things. Over the years, my curiosity has led me to explore frontend, backend, scripting, automation, and even the blockchain industry.
 
@@ -17,14 +17,14 @@ Today, I work mainly with **JavaScript**, **React.js**, **Node.js**, **TypeScrip
 
 When I'm not coding, I'm usually playing chess and trying not to blunder too badly.
 
-#### Quick Highlights
-🔭 **Working on:** Personal Growth & Development  
-🌱 **Learning:** Data Structures and Algorithms  
-👯 **Open to:** Web Technology Projects  
-💬 **Ask me about:** Computer Science, Automation, Web Development  
-⚡ **Fun fact:** Chess addict (even if I lose sometimes)
+### Quick Highlights
+- 🔭 **Working on:** Myself
+- 🌱 **Learning:** Data Structures and Algorithms  
+- 👯 **Open to:** Web Technology Projects  
+- 💬 **Ask me about:** Computer Science, Automation, Web Development and Mathematics
+- ⚡ **Fun fact:** Chess addict (even if I lose sometimes)
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
@@ -34,13 +34,13 @@ When I'm not coding, I'm usually playing chess and trying not to blunder too bad
 
 ---
 
-#### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=basilgoodluck&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
 ---
 
-#### 🐍 Contribution Graph
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
