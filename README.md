@@ -1,3 +1,6 @@
+
+<img src="https://moe-counter.glitch.me/get/@sh-y-zu?theme=gelbooru" alt="Profile Visit Counter" width="200">
+
 ### Full-Stack Developer | Building Scalable Apps & Data-Driven Solutions
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
@@ -47,10 +50,6 @@ When I'm not coding, I'm usually playing chess and trying not to blunder too bad
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-<img src="https://moe-counter.glitch.me/get/@sh-y-zu?theme=gelbooru" alt="Profile Visit Counter" width="200">
 
 ---
 
