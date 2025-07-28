@@ -8,25 +8,6 @@
 
 ---
 
-### About Me
-
-I'm a passionate and versatile web developer who loves learning and building new things. Over the years, my curiosity has led me to explore frontend, backend, scripting, automation, and even the blockchain industry.
-
-I enjoy creating web solutions and building trading bots that automate work while I sleep. I’m also into web scraping and have built several automation tools to make life easier.
-
-My journey in tech wasn’t easy — a lot of late nights, saving up to invest in myself, and pushing through challenges. But persistence and patience helped me move forward, and I'm grateful for how far I’ve come.
-
-Today, I work mainly with **JavaScript**, **React.js**, **Node.js**, **TypeScript**, **Python**, **FastAPI**, and **Next.js**. I'm currently sharpening my **data structures and algorithms (DSA)** skills and learning **Rust** to grow even more.
-
-When I'm not coding, I'm usually playing chess and trying not to blunder too badly.
-
-### Quick Highlights
-- 🔭 **Working on:** Myself
-- 🌱 **Learning:** Data Structures and Algorithms  
-- 👯 **Open to:** Web Technology Projects  
-- 💬 **Ask me about:** Computer Science, Automation, Web Development and Mathematics
-- ⚡ **Fun fact:** Chess addict (even if I lose sometimes)
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
