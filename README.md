@@ -2,7 +2,7 @@
 
 ![Profile Visit Counter](https://moe-counter.glitch.me/get/@sh-y-zu?theme=gelbooru)
 
-# 🚀 Full-Stack Developer | Building Scalable Apps & Data-Driven Solutions
+# ON THE ROAD TO 100X ENGINEER
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 
