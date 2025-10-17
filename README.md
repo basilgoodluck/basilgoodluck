@@ -1,6 +1,6 @@
 # hello world! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NameCanBeBlank?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 
 I'm Basil, and I build software. I like making things that work well and solve real problems.
 
@@ -17,4 +17,4 @@ Right now I'm building **Discord bots** and exploring **Web3** stuff, seeing how
 
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects. Whether you want to talk about Discord bots, Web3 development, or just share coding experiences.
 
-Check out my <a href="https://basilgoodluck.github.io">portfolio</a> or reach out if you'd like to collaborate!
+Check out my <a href="https://basil.dev">portfolio</a> or reach out if you'd like to collaborate!
