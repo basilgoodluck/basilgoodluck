@@ -11,8 +11,8 @@ I work on **[Ubuntu](https://ubuntu.com)** servers for hosting. The command line
 Right now I'm building **Discord bots** and exploring **Web3** stuff, seeing how to make blockchain actually useful for users.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&bg_color=161b22&border_color=30363d&title_color=c9d1d9&text_color=8b949e&icon_color=7d8590&card_width=320" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&bg_color=161b22&border_color=30363d&title_color=c9d1d9&text_color=8b949e&card_width=320" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&bg_color=161b22&border_color=30363d&title_color=f7f5f0&text_color=8b949e&icon_color=fca503&card_width=320" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&bg_color=161b22&border_color=30363d&title_color=f7f5f0&text_color=8b949e&card_width=320" alt="Most Used Languages" />
 </div>
 
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects. Whether you want to talk about Discord bots, Web3 development, or just share coding experiences.
