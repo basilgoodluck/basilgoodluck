@@ -7,10 +7,10 @@ I'm a passionate developer who believes in writing **clean, efficient code** and
 Currently working on exciting projects involving **Discord bots** and **Web3 development**. Always learning and staying up-to-date with the latest tech trends while looking to collaborate on innovative projects. I love sharing knowledge about anything tech-related and helping other developers grow.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&theme=transparent&hide_border=true&title_color=6a737d&text_color=6a737d&icon_color=586069&card_width=320" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilgoodluck&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=6a737d&text_color=6a737d&card_width=320" alt="Most Used Languages" />
 </div>
 
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects. Whether you want to talk about Discord bots, Web3 development, or just share coding experiences.
 
-Check out my <a href="https://basilgoodluck.github.io">portfolio</a> or reach out if you'd like to collaborate!
+Check out my <a href="https://basil.dev">portfolio</a> or reach out if you'd like to collaborate!
