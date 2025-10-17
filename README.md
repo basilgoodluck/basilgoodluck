@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__nobledev_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 
-I'm Basil, and I build software. I'm passionate about creating **robust applications** and **scalable solutions**. My core tech stack revolves around technologies that power modern web development and infrastructure.
+I'm Basil, and I build software. I like making things that work well and solve real problems.
 
-I work extensively with **[PostgreSQL](https://postgresql.org)** - it's the backbone of almost every application I build. The advanced features and reliability make it my go-to database for complex data relationships. I also leverage **[Docker](https://docker.com)** for containerization and deployment, which streamlines development workflows and ensures consistency across environments.
+I use **[PostgreSQL](https://postgresql.org)** for most of my apps - it's reliable and handles complex data really well. **[Docker](https://docker.com)** makes deployment easier and keeps everything consistent across different environments.
 
-As a **Linux enthusiast**, I primarily work on **[Ubuntu](https://ubuntu.com)** servers for hosting and deployment. There's something satisfying about the command line efficiency and the control it provides over the entire development stack.
+I work on **[Ubuntu](https://ubuntu.com)** servers for hosting. The command line is fast and gives you full control over everything.
 
-Currently diving deep into **Discord bot development** and **Web3 technologies**, exploring how blockchain integration can enhance user experiences.
+Right now I'm building **Discord bots** and exploring **Web3** stuff, seeing how to make blockchain actually useful for users.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basilgoodluck&show_icons=true&bg_color=161b22&border_color=30363d&title_color=c9d1d9&text_color=8b949e&icon_color=7d8590&card_width=320" alt="GitHub Stats" />
@@ -17,4 +17,4 @@ Currently diving deep into **Discord bot development** and **Web3 technologies**
 
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects. Whether you want to talk about Discord bots, Web3 development, or just share coding experiences.
 
-Check out my <a href="https://basil.dev">portfolio</a> or reach out if you'd like to collaborate!
+Check out my <a href="https://basilgoodluck.github.io">portfolio</a> or reach out if you'd like to collaborate!
