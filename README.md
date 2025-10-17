@@ -18,5 +18,3 @@ I'm a passionate developer who believes in writing clean, efficient code and bui
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects. Whether you want to talk about Discord bots, Web3 development, or just share coding experiences - I'm all ears!
 
 ---
-
-⭐️ *If you find my work interesting, feel free to star some repositories and follow me for updates!*
