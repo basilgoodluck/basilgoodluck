@@ -17,4 +17,4 @@ Right now I'm building **Discord bots** and exploring **Web3** stuff, seeing how
 
 I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects. Whether you want to talk about Discord bots, Web3 development, or just share coding experiences.
 
-Check out my <a href="https://basil.dev">portfolio</a> or reach out if you'd like to collaborate!
+Check out my <a href="https://basilgoodluck.com">portfolio</a> or reach out if you'd like to collaborate!
