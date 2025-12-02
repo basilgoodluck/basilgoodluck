@@ -1,4 +1,4 @@
-# hello world! 👋
+# hello, world! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NameCanBeBlank?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 
