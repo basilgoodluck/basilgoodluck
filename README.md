@@ -1,5 +1,6 @@
 # hello, world! 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/NameCanBeBlank?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
+<br />
 I'm Basil, and I build software. I like making things that work well and solve real problems.
 I use **[PostgreSQL](https://postgresql.org)** for most of my apps - it's reliable and handles complex data really well. **[Docker](https://docker.com)** makes deployment easier and keeps everything consistent across different environments.
 I work on **[Ubuntu](https://ubuntu.com)** servers for hosting. The command line is fast and gives you full control over everything.
