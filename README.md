@@ -9,6 +9,6 @@ I’ve built things like [AIPE](https://discord.com/oauth2/authorize?client_id=1
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basilgoodluck&theme=dark&hide_border=false&background=161b22&border=30363d&stroke=30363d&ring=fca503&fire=fca503&currStreakLabel=f7f5f0&sideLabels=f7f5f0&currStreakNum=f7f5f0&dates=8b949e&sideNums=8b949e" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basilgoodluck&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basilgoodluck&theme=github_dark" />
 </div>
 I’m open to working on anything around AI automation, algorithmic trading, or web automation and scraping.
