@@ -7,7 +7,7 @@ Lately, I've been deep in trading strategy design and AI hackathons, trying to p
 I've built things like [AIPE](https://discord.com/oauth2/authorize?client_id=1431460121904418919), a sniper bot that lives inside Discord, and [Quasar](https://quasar-ai-agent.vercel.app), an AI agent I worked on during a Lablab AI hackathon. Alongside that, I run [noblequant](https://www.noblequant.pro/), where I work on algorithmic trading systems, from strategy design to implementation, risk management, and fixing what breaks when systems meet real markets.
 
 <div align="center">
-  <a href="https://github.com/basilgoodluck" align="left"><img src="https://streak-stats.demolab.com/?user=basilgoodluck&theme=dark&hide_border=false&background=0d0d1a&border=4a1fb8&stroke=4a1fb8&ring=9333ea&fire=c084fc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c084fc&dates=a78bfa&sideNums=a78bfa" alt="GitHub Streak" /></a>
+  <a href="https://github.com/basilgoodluck" align="left"><img src="https://streak-stats.demolab.com/?user=basilgoodluck&background=0d0d1a&border=4a1fb8&stroke=4a1fb8&ring=9333ea&fire=c084fc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c084fc&dates=a78bfa&sideNums=a78bfa&hide_border=false" alt="GitHub Streak" /></a>
   <a href="https://github.com/basilgoodluck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilgoodluck&langs_count=10&title_color=c084fc&text_color=ffffff&icon_color=9333ea&bg_color=0d0d1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </div>
 
