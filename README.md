@@ -8,7 +8,8 @@ I've built things like [AIPE](https://discord.com/oauth2/authorize?client_id=143
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basilgoodluck&theme=dark&hide_border=false&background=0d0d1a&border=4a1fb8&stroke=4a1fb8&ring=9333ea&fire=c084fc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c084fc&dates=a78bfa&sideNums=a78bfa" alt="GitHub Stats" />
-  <a href="https://github.com/basilgoodluck" align="left"><img src="https://github-readme-stats-theta-weld-79.vercel.app/api/top-langs/?username=basilgoodluck&langs_count=10&title_color=c084fc&text_color=ffffff&icon_color=9333ea&bg_color=0d0d1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+  <br /><br />
+  <img src="https://github-readme-stats-theta-weld-79.vercel.app/api/top-langs/?username=basilgoodluck&langs_count=10&title_color=c084fc&text_color=ffffff&icon_color=9333ea&bg_color=0d0d1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
 
 I'm open to working on anything around AI automation, algorithmic trading, or web automation and scraping.
