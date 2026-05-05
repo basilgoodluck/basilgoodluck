@@ -8,7 +8,7 @@ I've built things like [AIPE](https://discord.com/oauth2/authorize?client_id=143
 
 <div align="center">
   <a href="https://github.com/basilgoodluck" align="left"><img src="https://streak-stats.demolab.com/?user=basilgoodluck&background=0d0d1a&border=4a1fb8&stroke=4a1fb8&ring=9333ea&fire=c084fc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c084fc&dates=a78bfa&sideNums=a78bfa&hide_border=false" alt="GitHub Streak" /></a>
-  <a href="https://github.com/basilgoodluck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilgoodluck&langs_count=10&title_color=c084fc&text_color=ffffff&icon_color=9333ea&bg_color=0d0d1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/basilgoodluck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilgoodluck&langs_count=10&title_color=c084fc&text_color=ffffff&icon_color=9333ea&bg_color=0d0d1a&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" /></a>
 </div>
 
 I'm open to working on anything around AI automation, algorithmic trading, or web automation and scraping.
