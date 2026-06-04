@@ -7,7 +7,7 @@ Lately, I've been deep in trading strategy design and AI hackathons, trying to p
 I've built things like [AIPE](https://discord.com/oauth2/authorize?client_id=1431460121904418919), a sniper bot that lives inside Discord, and [Quasar](https://quasar-ai-agent.vercel.app), an AI agent I worked on during a Lablab AI hackathon. Alongside that, I run [noblequant](https://www.noblequant.pro/), where I work on algorithmic trading systems, from strategy design to implementation, risk management, and fixing what breaks when systems meet real markets.
 I'm open to working on anything around AI automation, algorithmic trading, or web automation and scraping.
 
-<a href="https://github.com/basilgoodluck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=basilgoodluck&theme=dark&hide_border=false&background=0d0d1a&border=4a1fb8&stroke=4a1fb8&ring=9333ea&fire=c084fc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c084fc&dates=a78bfa&sideNums=a78bfa" alt="GitHub Stats" /></a>
+<a href="https://github.com/basilgoodluck"><img src="https://streak-stats.demolab.com/?user=basilgoodluck&theme=dark&hide_border=false&background=0d0d1a&border=4a1fb8&stroke=4a1fb8&ring=9333ea&fire=c084fc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c084fc&dates=a78bfa&sideNums=a78bfa" alt="GitHub Stats" /></a>
 
 <table>
   <tr>
