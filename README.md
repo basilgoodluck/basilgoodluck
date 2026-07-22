@@ -1,5 +1,5 @@
-# hello, world! 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/NameCanBeBlank?color=2563eb&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
+# hello, world!
+[![Twitter Follow](https://img.shields.io/twitter/follow/BasilGoodluck?color=2563eb&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
 <br />
 I'm Basil, and I build software.
 I've spent most of my time moving between web automation and algorithmic trading systems, figuring out how to make things not just work, but work reliably. I use **[PostgreSQL](https://postgresql.org)** a lot, at this point it's just second nature. For deployment, I stick with **[Docker](https://docker.com)** and run everything on **[Ubuntu](https://ubuntu.com)**.
