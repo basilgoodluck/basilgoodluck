@@ -1,6 +1,6 @@
 # hello, world!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BasilGoodluck?color=2563eb&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilgoodluck22@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BasilGoodluck?color=2563eb&logo=twitter&style=for-the-badge)](https://twitter.com/_nobledev) [![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@basilgoodluck.com) [![Website](https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://basilgoodluck.com)
 
 <br />
 
@@ -16,16 +16,11 @@ I'm open to working on anything around AI automation, algorithmic trading, or we
 
 <div align="center">
 
-<a href="https://github.com/basilgoodluck">
-  <img src="https://github-readme-stats-theta-weld-79.vercel.app/api/top-langs/?username=basilgoodluck&langs_count=10&title_color=60a5fa&text_color=ffffff&icon_color=2563eb&bg_color=0d0d1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
-</a>
-<a href="https://github.com/basilgoodluck">
-  <img src="https://github-readme-stats-theta-weld-79.vercel.app/api?username=basilgoodluck&show_icons=true&theme=dark&title_color=60a5fa&text_color=ffffff&icon_color=2563eb&bg_color=0d0d1a&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+<img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
 
 <br />
 
-<a href="https://github.com/basilgoodluck">
-  <img src="https://github-readme-streak-stats-six-pi-97.vercel.app/?user=basilgoodluck&theme=dark&hide_border=true&background=0d0d1a&ring=2563eb&fire=60a5fa&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=60a5fa&dates=93c5fd&sideNums=93c5fd" alt="GitHub Streak" width="60%" />
-</a>
+<img src="./profile/streak.svg" alt="GitHub Streak" width="60%" />
 
 </div>
