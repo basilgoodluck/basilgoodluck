@@ -14,7 +14,7 @@ I've built things like [AIPE](https://discord.com/oauth2/authorize?client_id=143
 
 I'm open to working on anything around AI automation, algorithmic trading, or web automation and scraping.
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td><img src="./profile/top-langs.svg" alt="Top Languages" width="100%" /></td>
     <td><img src="./profile/stats.svg" alt="GitHub Stats" width="100%" /></td>
@@ -22,4 +22,4 @@ I'm open to working on anything around AI automation, algorithmic trading, or we
   <tr>
     <td colspan="2"><img src="./profile/streak.svg" alt="GitHub Streak" width="100%" /></td>
   </tr>
-</table>
+</table> -->
